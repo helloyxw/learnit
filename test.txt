@@ -1,4 +1,10 @@
 aaabbbbcccdddd
+
 checkout -b
 test commit 1
 test commit 2
+
+
+master commit 3
+master commit 4
+
