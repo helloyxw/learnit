@@ -3,6 +3,6 @@ Git is free software.
 aaaa
 bbbb
 cccc
-dddddd
+ddd
 
 master commit 5
