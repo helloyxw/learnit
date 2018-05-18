@@ -1,8 +1,0 @@
-Git is a distributed version control system.
-Git is free software.
-aaaa
-bbbb
-cccc
-ddd
-
-master commit 5
